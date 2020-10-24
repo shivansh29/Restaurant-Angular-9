@@ -1,6 +1,8 @@
 # Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
+Frontend application with **Angular 9** with the use of **Routing, component, factories, modules, http services,  STATE MANAGEMENT and Server Side Rendering with Firebase as Backend Service with Authentication of users**
+
+**Use npm install ** for node_modules
 
 ## Development server
 
